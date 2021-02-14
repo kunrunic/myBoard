@@ -1,2 +1,2 @@
-# myBorad
+# myBoard
 Study Flask
